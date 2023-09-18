@@ -10,6 +10,6 @@ Further, I preprocessed text data by tokenizing, padding, text normalization, an
 Lastly, I achieved a 95% accuracy in identifying toxic comments with a precision rate of 80% and a recall rate of 70%.
 
 
-<img width="672" alt="Screenshot 2023-09-18 at 5 06 03 PM" src="https://github.com/Sarjak369/Detoxify/assets/56110199/8743d6bd-bd8e-4503-980b-093d1ad4c898">
+<img width="610" alt="Screenshot 2023-09-18 at 5 06 03 PM" src="https://github.com/Sarjak369/Detoxify/assets/56110199/a03a7b7b-9fdb-457d-a3d3-8fb1630c2524">
 
 <img width="620" alt="Screenshot 2023-09-18 at 5 06 17 PM" src="https://github.com/Sarjak369/Detoxify/assets/56110199/8201556b-8dcc-4382-9d4a-b7129adef6fb">
